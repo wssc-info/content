@@ -1,1 +1,1 @@
-
+console.info("Javascript Loaded");
