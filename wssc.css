@@ -1,0 +1,7 @@
+#top {
+--dark-color: #008ABB;
+}
+.av-logo-container .logo img {
+    width: 300px;
+    top: -70px;
+}
