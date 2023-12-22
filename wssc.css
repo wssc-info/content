@@ -1,9 +1,11 @@
 #top {
 --dark-color: #008ABB;
 }
-.av-logo-container .logo img {
-    width: 300px;
-    top: -70px;
+@media (min-width: 600px) {
+    .av-logo-container .logo img {
+        width: 300px;
+        top: -70px;
+    }
 }
 .red{
     color:red;
