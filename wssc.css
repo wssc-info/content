@@ -4,8 +4,23 @@
 #footer .container {
     max-width: 100%;
     background-color: #e0e0e0;
+    padding: 0px;
+}
+#wssc_footer {
+    background-color:#2D8ABB;
+    color:#ffffff;
+}
+
+#wssc_footer #wssc_footer_right, #wssc_footer #wssc_footer_left{
+    padding: 30px;
 }
 @media (min-width: 990px) {
+    #wssc_footer {
+        display: flex;
+    }
+    #wssc_footer #wssc_footer_left{
+        border-right:solid 1px #ffffff;
+    }
     .av-logo-container .logo img {
         max-width: 200px;
         top: -90px;
