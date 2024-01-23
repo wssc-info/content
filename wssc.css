@@ -1,10 +1,14 @@
 #top {
---dark-color: #008ABB;
+    --dark-color: #008ABB;
+}
+#footer .container {
+    max-width: 100%;
+    background-color: #e0e0e0;
 }
 @media (min-width: 990px) {
     .av-logo-container .logo img {
-        width: 300px;
-        top: -70px;
+        max-width: 200px;
+        top: -90px;
     }
 }
 .red{
