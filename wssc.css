@@ -25,7 +25,7 @@
         max-width: 200px;
         top: -90px;
     }
-}
-.red{
-    color:red;
+    .title_container{
+        padding-left: 200px;
+    }
 }
