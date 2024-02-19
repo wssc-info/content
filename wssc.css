@@ -34,4 +34,7 @@
     .title_container{
         padding-left: 200px;
     }
+    .v-toolbar__content{
+        padding-left: 250px;
+    }
 }
