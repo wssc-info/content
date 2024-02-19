@@ -11,10 +11,10 @@
 }
 
 #custom_html-5{
-    margin-bottom:0px;
+    margin-bottom:0px !important;
 }
 #custom_html-9{
-    margin-top:0px;
+    margin-top:0px !important;
 }
 
 #wssc_footer #wssc_footer_right, #wssc_footer #wssc_footer_left{
