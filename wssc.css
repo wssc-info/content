@@ -34,4 +34,9 @@
     .title_container{
         padding-left: 200px;
     }
+    .standardCenter{
+        width: 60%;
+        margin-left:auto;
+        margin-right:auto;
+    }
 }
