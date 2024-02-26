@@ -27,6 +27,9 @@
 .logged-in .showOnlyLoggedIn{
     display:block;
 }
+.av-logo-container .logo {
+margin-top: 0px!important;
+}
 @media (min-width: 990px) {
     #wssc_footer {
         display: flex;
@@ -36,10 +39,11 @@
     }
     .av-logo-container .logo img {
         max-width: 200px;
-        top: -90px;
+        top: -20px;
     }
     .title_container{
-        padding-left: 200px;
+        padding-left: 200px; 
+        padding-right: 200px; 
     }
     .standardCenter{
         max-width:1310px;
