@@ -20,6 +20,13 @@
 #wssc_footer #wssc_footer_right, #wssc_footer #wssc_footer_left{
     padding: 30px;
 }
+
+.showOnlyLoggedIn{
+    display:none;
+}
+.logged-in .showOnlyLoggedIn{
+    display:block;
+}
 @media (min-width: 990px) {
     #wssc_footer {
         display: flex;
@@ -35,8 +42,11 @@
         padding-left: 200px;
     }
     .standardCenter{
-        width: 60%;
+        max-width:1310;
         margin-left:auto;
         margin-right:auto;
+    }
+    .application--wrap .v-toolbar__content{
+        padding-left:250px;
     }
 }
