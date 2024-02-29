@@ -1,6 +1,6 @@
 console.info("Javascript Loaded");
 
-$(window).on('load', function() {
+jQuery(window).on('load', function() {
 	if(jQuery("#attach .v-toolbar__content .hidden-sm-and-down")[0]) {
 		console.log("its there");
 		
