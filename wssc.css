@@ -9,7 +9,9 @@
     background-color:#2D8ABB;
     color:#ffffff;
 }
-
+#goldSponsors{
+    display:flex;
+}
 #custom_html-5{
     margin-bottom:0px !important;
 }
