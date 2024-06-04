@@ -19,6 +19,12 @@
     margin-top:0px !important;
 }
 
+
+.fc-day-grid-event {
+    border-radius: 10px;
+    padding: 5px;
+}
+
 #wssc_footer #wssc_footer_right, #wssc_footer #wssc_footer_left{
     padding: 30px;
 }
